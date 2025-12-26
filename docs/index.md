@@ -28,25 +28,25 @@ This page is simply the personal hub tying it together.
 ### Temvorn (Applied AI)
 I lead the development of frameworks that help AI systems understand process, behavior, and change over time. The goal is to move AI beyond static outputs toward adaptive, transparent learning systems.
 
-- **Temvorn Website**
+- **[Temvorn Website](https://temvorn.ai/)**
 
 ### Temporal Sciences Foundation
 I founded the Temporal Sciences Foundation to support speculative work exploring time as a structural principle of the universe. All work is shared openly as non-peer-reviewed documents to encourage examination, refinement, and critique.
 
-- **Visit TS Foundation**  
-- **Visit Temporal Sciences Wiki**
+- **Visit [TS Foundation](https://www.temporalsciencesfoundation.org)**  
+- **Visit [Temporal Sciences Wiki](https://www.temporalsciences.wiki)**
 
 ---
 
 ## Documents & Open Access
 All speculative work is openly available through Zenodo in document form (not publications), in recognition of the rigor required for formal peer review.
 
-- **Zenodo Document Index**
+- **[Zenodo Document Index](https://www.temporalsciences.wiki/documents.html)**
 
 ---
 
 ## Generative AI “Start Here” Website
-- **Visit ColinLynch.ai**  
+- **Visit [ColinLynch.ai](https://www.colinlynch.ai)**  
   A simple starting point for people who haven’t yet begun working with generative AI.
 
 ---
@@ -63,6 +63,5 @@ These principles guide both my applied AI work and my speculative research.
 ---
 
 ## Connect
-- **LinkedIn — Colin Lynch**  
-- **LinkedIn — Temvorn**  
-- **LinkedIn — Temporal Sciences Foundation**
+- **[LinkedIn — Colin Lynch](https://www.linkedin.com/in/colin--lynch/)**  
+- **[LinkedIn — Temporal Sciences Foundation](https://www.linkedin.com/company/temporalsciencesfoundation/)**
