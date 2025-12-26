@@ -1,6 +1,6 @@
-title: Temporal Sciences Wiki
-description: Public documents and projects associated with the Temporal Sciences Foundation (TSF).
+title: Colin Lynch
+description: Personal hub for applied AI (Temvorn) and speculative time-based research (Temporal Sciences Foundation).
 theme: minima
 markdown: kramdown
-url: "https://www.temporalsciences.wiki"
-baseurl: ""   # leave empty if using a custom domain or user site
+url: "https://www.colinlynch.world"
+baseurl: ""   # leave empty when using a custom domain
