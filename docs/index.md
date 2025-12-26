@@ -1,4 +1,3 @@
-# Colin Lynch
 **Founder · Cognitive Integrator · Independent Researcher**
 
 Welcome to my personal page. I work at the intersection of systems design, artificial intelligence, and time-based theoretical frameworks. My focus is on understanding how people, processes, and technologies evolve over time — and how those patterns can be shaped, improved, or understood more clearly.
