@@ -32,7 +32,7 @@ This page is simply the personal hub tying it together.
 ### Temvorn (Applied AI)
 I lead the development of frameworks that help AI systems understand process, behavior, and change over time. The goal is to move AI beyond static outputs toward adaptive, transparent learning systems.
 
-- **Visit [Temvorn Website](https://temvorn.ai/)**
+- **Visit [Temvorn](https://temvorn.ai/)**
 
 ### Temporal Sciences Foundation
 I founded the Temporal Sciences Foundation to support speculative work exploring time as a structural principle of the universe. All work is shared openly as non-peer-reviewed documents to encourage examination, refinement, and critique.
