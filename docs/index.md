@@ -1,4 +1,7 @@
-# Brief Intro
+---
+layout: page
+title: Brief Intro
+---
 
 **Founder · Cognitive Integrator · Independent Researcher**
 
