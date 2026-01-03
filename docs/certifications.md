@@ -35,6 +35,7 @@ title: Professional Certifications & Coursework
 
 ## Advanced Agile & Product Certifications
 
+- **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**  
 - **[AI in Agile Delivery](https://www.credly.com/badges/6e0a5de6-cb63-4a80-80fd-febc3af4a4d7/public_url)**  
 - **[Disciplined Agile Essentials](https://www.credly.com/badges/5d1dd554-6b44-4347-b37f-438e4c2847c5)**  
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
