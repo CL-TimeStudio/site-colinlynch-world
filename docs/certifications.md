@@ -3,6 +3,9 @@ layout: page
 title: Professional Certifications & Coursework
 ---
 # Professional Certifications #
+
+*Selected executive, technical, and leadership credentials supporting AI strategy, process intelligence, and large-scale transformation.*
+
 ---
 
 ## Executive AI Programs (MIT Sloan & CSAIL)
@@ -14,8 +17,10 @@ title: Professional Certifications & Coursework
 
 ## Microsoft AI Learning Profile & Certifications
 
-- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
+*Applied, platform-specific AI credentials focused on Azure, Copilot, and enterprise deployment.*
+
 - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
+- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
 - **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
 - **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
 
@@ -23,13 +28,13 @@ title: Professional Certifications & Coursework
 
 ## Lean Six Sigma & Process Excellence
 
-- **[Lean Six Sigma Practitioner II (LSSP-II)](https://www.credential.net/57e66e6e-a733-4f32-9536-82bb3f967988)**  
 - **[Lean Six Sigma Master Black Belt (LSSMBB)](https://www.credential.net/8664cffe-98c4-4762-82a9-79e987513936)**  
 - **[Lean Six Sigma Black Belt (LSSBB)](https://www.credential.net/4f4832b4-3e7f-4906-b2eb-c46d298b967d)**  
+- **[Lean Six Sigma Practitioner II (LSSP-II)](https://www.credential.net/57e66e6e-a733-4f32-9536-82bb3f967988)**  
 - **[Lean Six Sigma Practitioner I (LSSP-I)](https://www.credential.net/15d02b96-d036-484d-b911-497a059b36c2)**  
-- **[Certified Process Improvement Specialist (CPIS)](https://www.credential.net/cf0eae63-aef0-4254-aa12-ab3244fc39e5)**  
 - **[Lean Six Sigma Green Belt (LSSGB)](https://www.credential.net/afefc682-4bf3-41a0-a5ed-7c213cca64f8)**  
 - **[Lean Six Sigma Yellow Belt (LSSYB)](https://www.credential.net/f14a0de1-7def-4616-9210-e277af8421a7)**  
+- **[Certified Process Improvement Specialist (CPIS)](https://www.credential.net/cf0eae63-aef0-4254-aa12-ab3244fc39e5)**  
 
 ---
 
@@ -63,22 +68,47 @@ title: Professional Certifications & Coursework
 
 ## AI & Generative AI Coursework
 
-- **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/certificates/2b6b104260dd76ab9d5a84c05bd82c1cf085bce61edc01414a304c6df0a51cf3)**  
+*Executive-focused coursework spanning strategy, ethics, adoption, and hands-on AI foundations.*
+
+### Executive Strategy, Governance & Adoption
+
 - **[Generative AI for Business Leaders with Dr. Brian Charles](https://courses.edx.org/certificates/3d7e3d06dd5c4201ae41fc3e09aafe41)**  
+  Executive-level framing of generative AI strategy, organizational impact, and decision-making implications.
+
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/96be68964f5f44af7b39d0f0f7694e3bc7e201ec4d5e9f5a0e38b8d1759ef5f9)**  
+  Broad foundation covering generative AI concepts, tools, ethics, and enterprise readiness.
+
+- **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/certificates/2b6b104260dd76ab9d5a84c05bd82c1cf085bce61edc01414a304c6df0a51cf3)**  
+  Focus on responsible AI, governance, and ethical considerations critical to public-sector and enterprise deployment.
+
 - **[How to Use Generative AI: Building an AI-First Mindset](https://www.linkedin.com/learning/certificates/793aec8ebdd020a514ee6be8cdd69dd157ea74d0cffed4d46cf049e52d1b43f8)**  
+  Adoption-oriented perspective emphasizing leadership, culture, and organizational change.
+
+### Technical & Applied Foundations
+
 - **[AI Python: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/a94bfd69-7bf5-4c31-9271-7172f1e5cc7e?usp=sharing)**  
+  Hands-on technical grounding in Python for AI workflows and experimentation.
+
+- **[Data Landscape of GenAI for Project Managers](https://www.credly.com/go/leU6pjgE3KDGnrGiAigr3A)**  
+  Practical overview of generative AI data considerations within project and delivery contexts.
+
 - **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**  
+  Introductory survey of generative AI concepts tailored to project management roles.
 
 ---
 
 ## Leadership, Dialogue & Management
 
+### Executive Leadership & Strategy
+
 - **[Dale Carnegie Course - Leadership Skills](./img/CL-DaleCarnegie.pdf)**  
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
+- **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
+
+### Communication, Inclusion & Influence
+
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
-- **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
 
 ---
 
@@ -88,7 +118,7 @@ title: Professional Certifications & Coursework
 
 ---
 
-## Professional Comleted Courses & Specialized Training  
+## Professional Comleted Courses & Specialized Training
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Crucial Conversations (course)**  
