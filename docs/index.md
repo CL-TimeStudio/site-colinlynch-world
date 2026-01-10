@@ -45,7 +45,7 @@ I founded the Temporal Sciences Foundation to support speculative work exploring
 ## Documents & Open Access
 All speculative work is openly available through Zenodo in document form (not publications), in recognition of the rigor required for formal peer review.
 
-- **[Temporal Sciences - Zenodo Document Index](https://www.temporalsciences.wiki/documents.html)**
+- **Visit [Temporal Sciences - Zenodo Document Index](https://www.temporalsciences.wiki/documents.html)**
 
 ---
 
