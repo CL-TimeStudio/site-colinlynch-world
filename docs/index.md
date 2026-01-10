@@ -37,7 +37,7 @@ I lead the development of frameworks that help AI systems understand process, be
 ### Temporal Sciences Foundation
 I founded the Temporal Sciences Foundation to support speculative work exploring time as a structural principle of the universe. All work is shared openly as non-peer-reviewed documents to encourage examination, refinement, and critique.
 
-- **Visit [TS Foundation](https://www.temporalsciencesfoundation.org)**  
+- **Visit [Temporal Sciences Foundation](https://www.temporalsciencesfoundation.org)**  
 - **Visit [Temporal Sciences Wiki](https://www.temporalsciences.wiki)**
 
 ---
