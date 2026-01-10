@@ -92,7 +92,8 @@ title: Professional Certifications & Coursework
 - **[Data Landscape of GenAI for Project Managers](https://www.credly.com/go/leU6pjgE3KDGnrGiAigr3A)**  
   Practical overview of generative AI data considerations within project and delivery contexts.
 
-- **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**  
+- **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**
+- **[Prompt Engineering for Project Managers](https://www.credly.com/badges/6baa8e71-c405-4a03-a51c-0c83e4684832/public_url)**
   Introductory survey of generative AI concepts tailored to project management roles.
 
 ---
