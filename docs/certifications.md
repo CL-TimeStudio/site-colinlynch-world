@@ -41,7 +41,7 @@ title: Professional Certifications & Coursework
 ## Advanced Agile & Product Certifications
 
 - **[AI in Agile Delivery](https://www.credly.com/badges/6e0a5de6-cb63-4a80-80fd-febc3af4a4d7/public_url)**  
-- **[Disciplined Agile Essentials](https://www.credly.com/badges/5d1dd554-6b44-4347-b37f-438e4c2847c5)**  
+- **[Disciplined Agile Essentials](https://www.credly.com/badges/5d1dd554-6b44-4347-b37f-438e4c2847c5/public_url)**  
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
 - **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**
 - **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
@@ -89,7 +89,7 @@ title: Professional Certifications & Coursework
 - **[AI Python: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/a94bfd69-7bf5-4c31-9271-7172f1e5cc7e?usp=sharing)**  
   Hands-on technical grounding in Python for AI workflows and experimentation.
 
-- **[Data Landscape of GenAI for Project Managers](https://www.credly.com/go/leU6pjgE3KDGnrGiAigr3A)**  
+- **[Data Landscape of GenAI for Project Managers](https://www.credly.com/badges/a5870c39-7f40-4e5e-996a-69a6711cbe29/public_url)**  
   Practical overview of generative AI data considerations within project and delivery contexts.
 
 - **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**  
