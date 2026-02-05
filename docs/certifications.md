@@ -2,8 +2,6 @@
 layout: page
 title: Professional Certifications & Coursework
 ---
-# Professional Certifications #
-
 *Selected executive, technical, and leadership credentials supporting AI strategy, process intelligence, and large-scale transformation.*
 
 ---
