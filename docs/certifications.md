@@ -119,7 +119,7 @@ title: Professional Certifications & Coursework
 
 ---
 
-## Professional Comleted Courses & Specialized Training
+## Professional Completed Courses & Specialized Training
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Crucial Conversations (course)**  
