@@ -16,10 +16,10 @@ I build frameworks — technical, behavioral, and conceptual — that explore:
 - How long-term memory and process understanding shape AI  
 - How temporal structures influence physical and conceptual systems  
 
-Much of this work spans both applied AI and speculative research. I keep the two worlds intentionally separate:
+Much of this work spans both applied AI and research. I keep the two worlds intentionally separate:
 
 - **Temvorn** handles applied AI and behavioral learning systems  
-- **Temporal Sciences Foundation** supports speculative theoretical work  
+- **Temporal Sciences Foundation** supports theoretical work  
 
 This page is simply the personal hub tying it together.
 
@@ -33,7 +33,7 @@ I lead the development of frameworks that help AI systems understand process, be
 - **Visit [Temvorn](https://temvorn.ai/)**
 
 ### Temporal Sciences Foundation
-I founded the Temporal Sciences Foundation to support speculative work exploring time as a structural principle of the universe. All work is shared openly as non-peer-reviewed documents to encourage examination, refinement, and critique.
+I founded the Temporal Sciences Foundation to support work exploring time as a structural principle of the universe. All work is shared openly as speculative non-peer-reviewed documents to encourage examination, refinement, and critique.
 
 - **Visit [Temporal Sciences Foundation](https://www.temporalsciencesfoundation.org)**  
 - **Visit [Temporal Sciences Wiki](https://www.temporalsciences.wiki)**
@@ -41,7 +41,7 @@ I founded the Temporal Sciences Foundation to support speculative work exploring
 ---
 
 ## Documents & Open Access
-All speculative work is openly available through Zenodo in document form (not publications), in recognition of the rigor required for formal peer review.
+All Temporal Sciences work is openly available through Zenodo in "document" form and are not represented as "publications" in recognition of the rigor required for formal peer review.
 
 - **Visit [Temporal Sciences - Document Index](https://www.temporalsciences.wiki/documents.html)**
 
