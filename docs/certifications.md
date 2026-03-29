@@ -16,8 +16,10 @@ title: Professional Credentials
 
 ### Microsoft AI Certifications & Applied Learning (Azure, Copilot, Enterprise AI)
 
+*Extensive hands-on exploration of the Microsoft AI ecosystem, covering AI agents, Copilot extensibility, Azure AI Foundry, data and orchestration layers, and responsible AI frameworks—providing practical exposure across the full lifecycle of AI system design and operation.*
+
 - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
-- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
+- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**
 - **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
 - **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
 
