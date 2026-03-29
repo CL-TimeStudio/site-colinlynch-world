@@ -1,6 +1,6 @@
 ---
 layout: page
-titel: Professional Credentials (AI, Systems, and Transformation)
+title: Professional Credentials
 ---
 *Selected executive, technical, and leadership credentials supporting AI strategy, process intelligence, and enterprise-scale transformation.*
 
