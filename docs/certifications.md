@@ -2,7 +2,7 @@
 layout: page
 title: Professional Credentials
 ---
-*Selected executive, technical, and leadership credentials supporting AI strategy, process intelligence, and enterprise-scale transformation.*
+*Executive, technical, and leadership credentials supporting AI systems, governance, and enterprise-scale transformation.*
 
 ---
 
@@ -11,11 +11,15 @@ title: Professional Credentials
 - **NIST AI Risk Management Framework (AI RMF) Certification - In Progress**
 - **[MIT Sloan + Computer Science and Artificial Intelligence Laboratory (CSAIL) — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
 - **[MIT Sloan + MIT Schwarzman College of Computing — Making AI Work: Machine Intelligence for Business and Society](https://www.credential.net/30719a0d-d7a3-4a73-b526-ae25bbcef4d7)**  
-- **Microsoft AI Certifications & Applied Learning (Azure, Copilot, Enterprise AI)**
-  - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
-  - **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
-  - **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
-  - **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
+
+---
+
+## Microsoft AI Certifications & Applied Learning (Azure, Copilot, Enterprise AI)
+
+- **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
+- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
+- **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
+- **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
 
 ---
 
