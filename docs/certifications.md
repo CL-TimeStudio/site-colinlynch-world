@@ -6,7 +6,7 @@ title: Professional Credentials
 
 *This foundation supports the transition from AI 1.0 (static outputs) to AI 2.0: systems that understand process, evolve over time, and operate with transparency and accountability in real-world environments.*
 
-*Collectively, they reflect the full lifecycle of AI systems—from strategic intent and governance through design, deployment, operation, and continuous improvement.*
+*Collectively, they represent the full lifecycle of AI systems—from strategic intent and governance through system design, deployment, runtime operation, and continuous evolution over time.*
 
 ---
 
