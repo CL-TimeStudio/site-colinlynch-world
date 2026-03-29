@@ -2,7 +2,9 @@
 layout: page
 title: Professional Credentials
 ---
-*Executive, technical, and leadership credentials supporting AI systems, governance, and enterprise-scale transformation.*
+*These credentials represent a unified approach to AI system design—integrating intelligence, governance, process, and operations into a single architecture.*
+
+*This foundation supports the transition from AI 1.0 (static outputs) to AI 2.0: systems that understand process, evolve over time, and operate with transparency and accountability in real-world environments.*
 
 ---
 
