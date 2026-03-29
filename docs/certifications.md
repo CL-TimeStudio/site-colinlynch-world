@@ -10,6 +10,8 @@ title: Professional Credentials
 
 ## Executive AI, Governance & Strategy
 
+*Foundational grounding in AI strategy and governance, focused on how intelligent systems are designed, constrained, and aligned for real-world use within enterprise and regulated environments.*
+
 - **NIST AI Risk Management Framework (AI RMF) — In Progress**
 - **[MIT Sloan + Computer Science and Artificial Intelligence Laboratory (CSAIL) — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
 - **[MIT Sloan + MIT Schwarzman College of Computing — Making AI Work: Machine Intelligence for Business and Society](https://www.credential.net/30719a0d-d7a3-4a73-b526-ae25bbcef4d7)**  
@@ -27,9 +29,11 @@ title: Professional Credentials
 
 ## AI & Generative AI — Applied & Executive Coursework
 
-*Executive and applied study spanning AI strategy, governance, adoption, and technical foundations.*
+*Applied exploration of modern AI capabilities, spanning generative systems, model interaction, and practical implementation patterns across enterprise use cases.*
 
 ### Strategy, Governance & Adoption
+
+*Focused on how AI is positioned, governed, and integrated within organizations—addressing risk, ethics, and the practical realities of adoption at scale.*
 
 - **[Generative AI for Business Leaders with Dr. Brian Charles](https://courses.edx.org/certificates/3d7e3d06dd5c4201ae41fc3e09aafe41)**  
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/96be68964f5f44af7b39d0f0f7694e3bc7e201ec4d5e9f5a0e38b8d1759ef5f9)**  
@@ -37,6 +41,8 @@ title: Professional Credentials
 - **[How to Use Generative AI: Building an AI-First Mindset](https://www.linkedin.com/learning/certificates/793aec8ebdd020a514ee6be8cdd69dd157ea74d0cffed4d46cf049e52d1b43f8)**  
 
 ### Technical & Applied Foundations
+
+*Hands-on exposure to the underlying tools and methods that power AI systems, enabling practical understanding of how models are built, evaluated, and deployed.*
 
 - **[AI Python: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/a94bfd69-7bf5-4c31-9271-7172f1e5cc7e?usp=sharing)**  
 - **[Data Landscape of GenAI for Project Managers](https://www.credly.com/badges/a5870c39-7f40-4e5e-996a-69a6711cbe29/public_url)**  
@@ -46,6 +52,8 @@ title: Professional Credentials
 ---
 
 ## Lean Six Sigma & Process Excellence
+
+*Deep process discipline centered on variation, flow, and continuous improvement—providing the foundation for understanding how systems evolve, stabilize, and optimize over time.*
 
 - **[Lean Six Sigma Master Black Belt (LSSMBB)](https://www.credential.net/8664cffe-98c4-4762-82a9-79e987513936)**  
 - **[Lean Six Sigma Black Belt (LSSBB)](https://www.credential.net/4f4832b4-3e7f-4906-b2eb-c46d298b967d)**  
@@ -59,11 +67,15 @@ title: Professional Credentials
 
 ## Service, Risk & Operational Governance
 
+*Operational frameworks focused on reliability, risk management, and lifecycle governance—ensuring systems function predictably, securely, and at scale in production environments.*
+
 - **[ITIL® 4 Foundation](./img/CL-ITILFoundations.png)**  
   
 ---
 
 ## Agile, Product & Systems Delivery
+
+*Delivery methodologies for building and evolving complex systems, emphasizing iterative development, feedback loops, and the structured progression from concept to deployment.*
 
 - **[Professional Scrum Master II (PSM II)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Master I (PSM I)](https://www.scrum.org/user/470643)**  
@@ -86,6 +98,8 @@ title: Professional Credentials
 
 ## Leadership, Communication & Organizational Effectiveness
 
+*Human-centered leadership and communication frameworks that align teams, clarify intent, and enable effective decision-making within complex and changing environments.*
+
 - **[Dale Carnegie Course - Leadership Skills](./img/CL-DaleCarnegie.pdf)**  
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
@@ -97,11 +111,15 @@ title: Professional Credentials
 
 ## Requirements & Analysis
 
+*Structured approaches to defining problems, capturing intent, and translating business needs into executable system designs.*
+
 - **[The Quest for Excellent Requirements: Requirements Producer](./img/CL-RequirementsQuest.png)**  
 
 ---
 
 ## Specialized Training & Advanced Study
+
+*Targeted exploration of emerging tools, frameworks, and technologies that extend core capabilities and support continuous learning across evolving AI and systems domains.*
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Team Flow Performance for Agility: Work Execution Signals**  
