@@ -8,13 +8,11 @@ title: Professional Credentials
 
 ## Executive AI, Governance & Strategy
 
-- **NIST AI Risk Management Framework (AI RMF) Certification - In Progress**
+- **NIST AI Risk Management Framework (AI RMF) — In Progress**
 - **[MIT Sloan + Computer Science and Artificial Intelligence Laboratory (CSAIL) — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
 - **[MIT Sloan + MIT Schwarzman College of Computing — Making AI Work: Machine Intelligence for Business and Society](https://www.credential.net/30719a0d-d7a3-4a73-b526-ae25bbcef4d7)**  
 
----
-
-## Microsoft AI Certifications & Applied Learning (Azure, Copilot, Enterprise AI)
+### Microsoft AI Certifications & Applied Learning (Azure, Copilot, Enterprise AI)
 
 - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
 - **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
@@ -25,7 +23,7 @@ title: Professional Credentials
 
 ## AI & Generative AI — Applied & Executive Coursework
 
-*Executive and applied coursework spanning AI strategy, governance, adoption, and technical foundations.*
+*Executive and applied study spanning AI strategy, governance, adoption, and technical foundations.*
 
 ### Strategy, Governance & Adoption
 
@@ -80,7 +78,6 @@ title: Professional Credentials
 - **[Disciplined Agile Essentials](https://www.credly.com/badges/5d1dd554-6b44-4347-b37f-438e4c2847c5/public_url)**  
 - **[AI in Agile Delivery](https://www.credly.com/badges/6e0a5de6-cb63-4a80-80fd-febc3af4a4d7/public_url)**  
 
-
 ---
 
 ## Leadership, Communication & Organizational Effectiveness
@@ -100,7 +97,7 @@ title: Professional Credentials
 
 ---
 
-## Additional Professional Training & Specialized Coursework
+## Specialized Training & Advanced Study
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Team Flow Performance for Agility: Work Execution Signals**  
