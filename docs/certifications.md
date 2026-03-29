@@ -6,6 +6,8 @@ title: Professional Credentials
 
 *This foundation supports the transition from AI 1.0 (static outputs) to AI 2.0: systems that understand process, evolve over time, and operate with transparency and accountability in real-world environments.*
 
+*Collectively, they reflect the full lifecycle of AI systems—from strategic intent and governance through design, deployment, operation, and continuous improvement.*
+
 ---
 
 ## Executive AI, Governance & Strategy
@@ -35,6 +37,8 @@ title: Professional Credentials
 
 *Focused on how AI is positioned, governed, and integrated within organizations—addressing risk, ethics, and the practical realities of adoption at scale.*
 
+*Together with technical foundations, this reflects the full lifecycle of AI systems—from strategic intent and governance design through implementation, deployment, and operational use.*
+
 - **[Generative AI for Business Leaders with Dr. Brian Charles](https://courses.edx.org/certificates/3d7e3d06dd5c4201ae41fc3e09aafe41)**  
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/96be68964f5f44af7b39d0f0f7694e3bc7e201ec4d5e9f5a0e38b8d1759ef5f9)**  
 - **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/certificates/2b6b104260dd76ab9d5a84c05bd82c1cf085bce61edc01414a304c6df0a51cf3)**  
@@ -43,6 +47,8 @@ title: Professional Credentials
 ### Technical & Applied Foundations
 
 *Hands-on exposure to the underlying tools and methods that power AI systems, enabling practical understanding of how models are built, evaluated, and deployed.*
+
+*Together with strategy and governance, this reflects the full lifecycle of AI systems—from initial design and model interaction through deployment, evaluation, and continuous refinement.*
 
 - **[AI Python: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/a94bfd69-7bf5-4c31-9271-7172f1e5cc7e?usp=sharing)**  
 - **[Data Landscape of GenAI for Project Managers](https://www.credly.com/badges/a5870c39-7f40-4e5e-996a-69a6711cbe29/public_url)**  
