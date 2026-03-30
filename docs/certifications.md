@@ -89,8 +89,6 @@ title: Professional Credentials
 - **[Professional Scrum Product Owner I (PSPO I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Developer I (PSD I)](https://www.scrum.org/user/470643)**  
 - **[Scaled Professional Scrum (SPS)](https://www.scrum.org/user/470643)**  
-- **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
-- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum with Kanban I (PSK I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum with User Experience I (PSU I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Facilitation Skills (PSFS)](https://www.scrum.org/user/470643)**  
@@ -111,6 +109,8 @@ title: Professional Credentials
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
+- **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
+- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
 
 ---
