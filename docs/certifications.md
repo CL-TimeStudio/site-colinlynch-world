@@ -39,6 +39,8 @@ title: Professional Credentials
 
 *Together with technical foundations, this reflects the full lifecycle of AI systems—from strategic intent and governance design through implementation, deployment, and operational use.*
 
+***Note**: The National Institute of Standards and Technology AI Risk Management Framework (AI RMF) is intentionally excluded from this section. While commonly grouped with operational risk frameworks, it functions as a design-layer construct—establishing the conditions, boundaries, and trust characteristics that govern systems before they enter operation.*
+
 - **[Generative AI for Business Leaders with Dr. Brian Charles](https://courses.edx.org/certificates/3d7e3d06dd5c4201ae41fc3e09aafe41)**  
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/96be68964f5f44af7b39d0f0f7694e3bc7e201ec4d5e9f5a0e38b8d1759ef5f9)**  
 - **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/certificates/2b6b104260dd76ab9d5a84c05bd82c1cf085bce61edc01414a304c6df0a51cf3)**  
