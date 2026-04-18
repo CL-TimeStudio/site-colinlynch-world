@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Professional Credentials
+title: Professional Certifications
 ---
-*These credentials represent a unified approach to AI system design—integrating intelligence, governance, process, and operations into a single architecture.*
+*These certifications represent a unified approach to AI system design—integrating intelligence, governance, process, and operations into a single architecture.*
 
 *This foundation supports the transition from AI 1.0 (static outputs) to AI 2.0: systems that understand process, evolve over time, and operate with transparency and accountability in real-world environments.*
 
