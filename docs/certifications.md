@@ -131,6 +131,4 @@ title: Professional Certifications
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Team Flow Performance for Agility: Work Execution Signals**  
-- **Wolfram U: Creating Custom AI Chat Personas in Mathematica**  
-
----
+- **Wolfram U: Creating Custom AI Chat Personas in Mathematica**
