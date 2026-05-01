@@ -4,3 +4,7 @@ theme: minima
 markdown: kramdown
 url: "https://www.colinlynch.world"
 baseurl: ""   # leave empty when using a custom domain
+
+header_pages:
+  - index.md
+  - certifications.md
