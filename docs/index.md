@@ -14,14 +14,14 @@ I build frameworks — technical, behavioral, and conceptual — that explore:
 
 - How intelligent systems learn through behavior and feedback  
 - How long-term memory and process understanding shape AI  
-- How temporal structures influence physical and conceptual systems  
+- Time-centric theoretical models exploring physical systems and cosmology  
 
 Much of this work spans both applied AI and research. I keep the two worlds intentionally separate:
 
 - **Temvorn** handles applied AI and behavioral learning systems  
 - **Temporal Sciences Foundation** supports theoretical work  
 
-This page is simply the personal hub tying it together.
+This page serves as a central index for my current technical and research work.
 
 ---
 
