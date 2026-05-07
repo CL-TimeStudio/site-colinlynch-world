@@ -3,14 +3,14 @@ layout: page
 title: Brief Intro
 ---
 
-Welcome to my personal page. I work at the intersection of systems design, artificial intelligence, and time-based theoretical frameworks. My focus is on understanding how people, processes, and technologies evolve over time — and how those patterns can be shaped, improved, or understood more clearly.
+Welcome to my personal page. I work across systems design, artificial intelligence, and independent theoretical research. My focus is on understanding how people, processes, and technologies evolve over time — and how those patterns can be shaped, improved, or understood more clearly.
 
 This site offers a simple overview of where my current work lives, along with links to the organizations and research spaces I maintain.
 
 ---
 
 ## What I Do
-I build technical and behavorial frameworks that explore:
+I build technical and behavioral frameworks that explore:
 
 - How intelligent systems learn through behavior and feedback  
 - How long-term memory and process understanding shape AI  
