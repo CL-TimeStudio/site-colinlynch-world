@@ -10,7 +10,7 @@ This site offers a simple overview of where my current work lives, along with li
 ---
 
 ## What I Do
-I build frameworks — technical, behavioral, and conceptual — that explore:
+I build technical and behavorial frameworks that explore:
 
 - How intelligent systems learn through behavior and feedback  
 - How long-term memory and process understanding shape AI  
@@ -41,7 +41,7 @@ I founded the Temporal Sciences Foundation to support work exploring time as a s
 ---
 
 ## Documents & Open Access
-All Temporal Sciences work is openly available through Zenodo in "document" form and are not represented as "publications" in recognition of the rigor required for formal peer review.
+All Temporal Sciences work is openly available through Zenodo in "document" form and is not represented as "publications" in recognition of the rigor required for formal peer review.
 
 - **Visit [Temporal Sciences - Document Index](https://www.temporalsciences.wiki/documents.html)**
 
