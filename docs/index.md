@@ -68,3 +68,7 @@ These principles guide both my applied AI work and my speculative research.
 - **[LinkedIn — Colin Lynch](https://www.linkedin.com/in/colin--lynch/)**  
 - **[LinkedIn — Temvorn](https://www.linkedin.com/company/temvorn/)**  
 - **[LinkedIn — Temporal Sciences Foundation](https://www.linkedin.com/company/temporalsciencesfoundation/)**
+
+---
+
+# End of Document
