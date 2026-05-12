@@ -48,8 +48,9 @@ All Temporal Sciences work is openly available through Zenodo in "document" form
 ---
 
 ## Generative AI “Start Here” Website
-- **Visit [ColinLynch.ai](https://www.colinlynch.ai)**  
   A simple starting point for people who haven’t yet begun working with generative AI.
+
+- **Visit [ColinLynch.ai](https://www.colinlynch.ai)**  
 
 ---
 
