@@ -14,7 +14,7 @@ title: Professional Certifications
 
 *Foundational grounding in AI strategy and governance, focused on how intelligent systems are designed, constrained, and aligned for real-world use within enterprise and regulated environments.*
 
-- **NIST AI Risk Management Framework (AI RMF) — In Progress**
+- **NIST AI Risk Management Framework (AI RMF)**
 - **[MIT Sloan + Computer Science and Artificial Intelligence Laboratory (CSAIL) — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
 - **[MIT Sloan + MIT Schwarzman College of Computing — Making AI Work: Machine Intelligence for Business and Society](https://www.credential.net/30719a0d-d7a3-4a73-b526-ae25bbcef4d7)**  
 
