@@ -73,6 +73,16 @@ title: Professional Certifications
 
 ---
 
+## Enterprise Flow & Operating System Design
+
+*Frameworks focused on connecting strategy, coordination, and execution across organizational levels—helping complex enterprises align work, improve flow, and make delivery systems visible, adaptive, and outcome-oriented.*
+
+*These certifications support the architecture of organizational operating systems: translating intent into coordinated work, connecting portfolio-level direction to team-level execution, and improving how value moves through complex environments.*
+
+- **[Introduction to Flight Levels](https://www.credential.net/cc7c6ec6-4afa-4d73-afc9-e2364b05aa67)**  
+  
+---
+
 ## Service, Risk & Operational Governance
 
 *Operational frameworks focused on reliability, risk management, and lifecycle governance—ensuring systems function predictably, securely, and at scale in production environments.*
