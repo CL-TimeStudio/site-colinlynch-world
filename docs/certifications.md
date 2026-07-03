@@ -80,7 +80,7 @@ title: Professional Certifications
 
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Introduction to Flight Levels](https://www.credential.net/cc7c6ec6-4afa-4d73-afc9-e2364b05aa67)**  
-- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
+- **[Professional Agile Leadership — Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
 - **Beyond SAFe® — Flow@Scale** *(Training)*
 - **Team Flow Performance for Agility: Work Execution Signals** *(Training)*
