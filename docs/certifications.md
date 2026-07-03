@@ -82,7 +82,7 @@ title: Professional Certifications
 - **[Introduction to Flight Levels](https://www.credential.net/cc7c6ec6-4afa-4d73-afc9-e2364b05aa67)**  
 - **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
-- **Beyond SAFe® – Flow@Scale** *(Training)*
+- **Beyond SAFe® — Flow@Scale** *(Training)*
 - **Team Flow Performance for Agility: Work Execution Signals** *(Training)*
   
 ---
@@ -119,7 +119,7 @@ title: Professional Certifications
 
 *Human-centered leadership and communication frameworks that align teams, clarify intent, and enable effective decision-making within complex and changing environments.*
 
-- **[Dale Carnegie Course - Leadership Skills](./img/CL-DaleCarnegie.pdf)**  
+- **[Dale Carnegie Course — Leadership Skills](./img/CL-DaleCarnegie.pdf)**  
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
