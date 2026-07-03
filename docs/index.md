@@ -43,7 +43,7 @@ I founded the Temporal Sciences Foundation to support work exploring time as a s
 ## Documents & Open Access
 All Temporal Sciences work is openly available through Zenodo in "document" form and is not represented as "publications" in recognition of the rigor required for formal peer review.
 
-- **Visit [Temporal Sciences - Document Index](https://www.temporalsciences.wiki/documents.html)**
+- **Visit [Temporal Sciences — Document Index](https://www.temporalsciences.wiki/documents.html)**
 
 ---
 
