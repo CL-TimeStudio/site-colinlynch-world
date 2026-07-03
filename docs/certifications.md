@@ -2,7 +2,7 @@
 layout: page
 title: Professional Certifications
 ---
-*These certifications represent a unified approach to AI system design—integrating intelligence, governance, process, and operations into a single architecture.*
+*These certifications, credentials, and applied learning programs represent a unified approach to AI system design—integrating intelligence, governance, process, and operations into a single architecture.*
 
 *This foundation supports the transition from AI 1.0 (static outputs) to AI 2.0: systems that understand process, evolve over time, and operate with transparency and accountability in real-world environments.*
 
@@ -25,7 +25,7 @@ title: Professional Certifications
 - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
 - **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**
 - **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
-- **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
+- **[Microsoft Ignite Challenges — 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
 
 ---
 
@@ -38,8 +38,6 @@ title: Professional Certifications
 *Focused on how AI is positioned, governed, and integrated within organizations—addressing risk, ethics, and the practical realities of adoption at scale.*
 
 *Together with technical foundations, this reflects the full lifecycle of AI systems—from strategic intent and governance design through implementation, deployment, and operational use.*
-
-***Note**: The National Institute of Standards and Technology AI Risk Management Framework (AI RMF) is intentionally excluded from this section. While commonly grouped with operational risk frameworks, it functions as a design-layer construct—establishing the conditions, boundaries, and trust characteristics that govern systems before they enter operation.*
 
 - **[Generative AI for Business Leaders with Dr. Brian Charles](https://courses.edx.org/certificates/3d7e3d06dd5c4201ae41fc3e09aafe41)**  
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/96be68964f5f44af7b39d0f0f7694e3bc7e201ec4d5e9f5a0e38b8d1759ef5f9)**  
@@ -56,6 +54,7 @@ title: Professional Certifications
 - **[Data Landscape of GenAI for Project Managers](https://www.credly.com/badges/a5870c39-7f40-4e5e-996a-69a6711cbe29/public_url)**  
 - **[Generative AI Overview for Project Managers](https://www.credly.com/badges/75cfe321-b5ee-440a-90e8-7982083ac4ef/public_url)**  
 - **[Prompt Engineering for Project Managers](https://www.credly.com/badges/6baa8e71-c405-4a03-a51c-0c83e4684832/public_url)**  
+- **Wolfram U: Creating Custom AI Chat Personas in Mathematica** *(Training)*
 
 ---
 
@@ -77,9 +76,14 @@ title: Professional Certifications
 
 *Frameworks focused on connecting strategy, coordination, and execution across organizational levels—helping complex enterprises align work, improve flow, and make delivery systems visible, adaptive, and outcome-oriented.*
 
-*These certifications support the architecture of organizational operating systems: translating intent into coordinated work, connecting portfolio-level direction to team-level execution, and improving how value moves through complex environments.*
+*These credentials and training programs support the architecture of organizational operating systems: translating intent into coordinated work, connecting portfolio-level direction to team-level execution, and improving how value moves through complex environments.*
 
+- **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Introduction to Flight Levels](https://www.credential.net/cc7c6ec6-4afa-4d73-afc9-e2364b05aa67)**  
+- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
+- **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
+- **Beyond SAFe® – Flow@Scale** *(Training)*
+- **Team Flow Performance for Agility: Work Execution Signals** *(Training)*
   
 ---
 
@@ -105,8 +109,7 @@ title: Professional Certifications
 - **[Professional Scrum with User Experience I (PSU I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Facilitation Skills (PSFS)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Product Backlog Management Skills (PSPBM)](https://www.scrum.org/user/470643)**  
-- **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
-- **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**
+- **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**  
 - **[Disciplined Agile Essentials](https://www.credly.com/badges/5d1dd554-6b44-4347-b37f-438e4c2847c5/public_url)**  
 - **[AI in Agile Delivery](https://www.credly.com/badges/6e0a5de6-cb63-4a80-80fd-febc3af4a4d7/public_url)**  
 
@@ -120,10 +123,8 @@ title: Professional Certifications
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
-- **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
 - **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
-- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 
 ---
 
@@ -132,13 +133,3 @@ title: Professional Certifications
 *Structured approaches to defining problems, capturing intent, and translating business needs into executable system designs.*
 
 - **[The Quest for Excellent Requirements: Requirements Producer](./img/CL-RequirementsQuest.png)**  
-
----
-
-## Specialized Training & Advanced Study
-
-*Targeted exploration of emerging tools, frameworks, and technologies that extend core capabilities and support continuous learning across evolving AI and systems domains.*
-
-- **Beyond SAFe® – Flow@Scale**  
-- **Team Flow Performance for Agility: Work Execution Signals**  
-- **Wolfram U: Creating Custom AI Chat Personas in Mathematica**
